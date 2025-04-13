@@ -48,7 +48,7 @@
 
 ### Usage
 
-1.  **Run the setuo script:**
+1.  **Run the setup script:**
 
     ```bash
     python setup.py
