@@ -48,15 +48,20 @@
 
 ### Usage
 
-1.  **Run the main script:**
+1.  **Run the setuo script:**
 
     ```bash
-    python main.py
+    python setup.py
+    ```
+2. **Run the main script:**
+
+    ```bash
+    python app.py
     ```
 
-    *(Replace `main.py` with the actual name of the main execution script in the repository.)*
+   
 
-2.  **Follow on-screen instructions:** The application should open a window displaying the video feed from your webcam. Perform sign language gestures in front of the camera, and the corresponding text output should be displayed in real-time.
+3.  **Follow on-screen instructions:** The application should open a window displaying the video feed from your webcam. Perform sign language gestures in front of the camera, and the corresponding text output should be displayed in real-time.
 
 ## Project Structure
 sign2text/
